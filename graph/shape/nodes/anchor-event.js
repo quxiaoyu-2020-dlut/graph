@@ -36,7 +36,8 @@ export default (anchor, group, p) => {
           // ['L', point[0] / 3 + (2 / 3) * point[0], point[1]],
           // ['L', point[0] / 4 + (3 / 4) * point[0], point[1]],
           // ['L', point[0], point[1]],
-  
+          // ['L', point[0], point[1]],
+          
 
         ]
       },
